@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ZG4UZWvST5SpxgUlhT7ShnXWvGJjaw6nx15pBZYnCK7MOgpaX5jK1ag6kqPZya6jO0iwJKScDVOsMkDuD9+aw==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\bla\\bla.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aszabo\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
